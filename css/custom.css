@@ -1,3 +1,8 @@
 .no-shadow {
     box-shadow: none !important;
 }
+::selection {
+    background: #F05B62;
+    color: #fff;
+    text-shadow: none;
+}
