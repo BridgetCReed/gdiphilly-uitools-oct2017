@@ -1,7 +1,8 @@
 # Introduction to User-Interface Design Tools: Photoshop, Illustrator, & Sketch
 Slides and materials are hosted at [bridgetcreed.github.io/gdiphilly-uitools-oct2017](http://bridgetcreed.github.io/gdiphilly-uitools-oct2017).
 
-**Cost:** $90.00 /per person
+**Cost:** $90.00/per person
+
 **Course length:** 2 days - 4.25 hours each day
 
 ## Course description
