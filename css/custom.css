@@ -13,3 +13,11 @@
 .copyright {
     text-align: right;
 }
+
+
+.examples .left {
+    width: 50%;
+}
+.examples .right {
+    width: 50%;
+}
