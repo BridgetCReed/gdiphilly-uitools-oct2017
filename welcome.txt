@@ -1,32 +1,14 @@
-Hello!
-
-This weekend is our first-ever "Introduction to User-Interface Design Tools" class! Just a reminder that it's Saturday and Sunday, from 11:45am to 4pm at First Round Capital (4040 Locust Street). We have a lot of topics to cover both days, but I am available during class to help you and after class via email or Slack (on our new channel, #design) if you have any questions. We also have some fantastic TAs this weekend to assist you while working on our Design exercises, so take advantage of their knowledge and experience while you're learning!
-
-There are a few important things that you need before tomorrow's first class so that we can get started coding right away:
-
-- Your laptop and charger
-- Download Photoshop, Illustrator, and Sketch ***MAC ONLY - Please let us know if you would like to borrow a loaner computer to complete the Sketch exercises if you only have a Windows computer***
-
-If you'd like, feel free to bring snacks, coffee or bottled drinks to keep you in tip top learning shape.
-Bookmark the class slides for tomorrow here: https://bridgetcreed.github.io/gdiphilly-uitools-oct2017.
-
-Exercise files will be available for download at the beginning of class, so be sure to arrive on time at 11:45am.
-
-
-Directions:
-
-This weekend's class is at First Round Capital in University City:
-
-First Round Capital
-4040 Locust Street
-Philadelphia, PA
-
-If you are taking SEPTA, First Round Capital is a 10-minute walk from the 40th Street stop of the Market Frankford line.
-Septa's 40 bus route has a stop at 40th & Locust.
-Here's a map: https://goo.gl/maps/JU8wxHPkfF62
-
-As a reminder, all attendees are expected to abide by Girl Develop It's Code of Conduct, which is available for review at http://www.girldevelopit.com/codeofconduct.
-
-Please email us if you have any questions before class begins, and I'm looking forward to programming with y'all this weekend!
-
--- Bridget and the GDI Philly team
+<p>Hello!</p>
+<p>This weekend is our first-ever "<strong><a href="https://www.meetup.com/Girl-Develop-It-Philadelphia/events/242366541/">Introduction to User-Interface Design Tools</a></strong>" class! Just a reminder that it's <strong>Saturday and Sunday, from 11:45am to 4pm at First Round Capital </strong>(4040 Locust Street). We have a lot of topics to cover both days, but I am available during class to help you and after class via email or Slack (on our new channel, <strong>#design</strong>) if you have any questions. We also have some fantastic TA's this weekend to assist you while working on our design exercises, so take advantage of their knowledge and experience while you're learning!</p>
+<p>There are a few important things that you need before tomorrow's first class so that we can get started coding right away:</p>
+<ul>
+<li>Your laptop and charger</li>
+<li>Download Photoshop, Illustrator, and Sketch <em>***<strong>MAC ONLY</strong> - Please let us know if you would like to borrow a loaner computer to complete the Sketch exercises if you only have a Windows computer***</em></li>
+</ul>
+<p>If you'd like, feel free to bring snacks, coffee or bottled drinks to keep you in tip top learning shape.</p>
+<p>Bookmark the class slides for tomorrow here: <a href="https://bridgetcreed.github.io/gdiphilly-uitools-oct2017.">https://bridgetcreed.github.io/gdiphilly-uitools-oct2017.</a>Exercise files will be available for download at the beginning of class, so be sure to arrive on time at <strong>11:45am</strong>.</p>
+<p><strong>Directions: </strong>This weekend's class is at First Round Capital in University City (thanks, FRC!).<br />First Round Capital<br />4040 Locust Street<br />Philadelphia, PA 19104</p>
+<p>If you are taking <strong>SEPTA</strong>, First Round Capital is a 10-minute walk from the 40th Street stop of the Market Frankford line.Septa's 40 bus route has a stop at 40th &amp; Locust.<br />Here's a map: https://goo.gl/maps/JU8wxHPkfF62</p>
+<p>As a reminder, all attendees are expected to abide by Girl Develop It's Code of Conduct, which is available for review at http://www.girldevelopit.com/codeofconduct.</p>
+<p>Please email us if you have any questions before class begins, and I'm looking forward to designing with you all this weekend!</p>
+<p>-- Bridget and the GDI Philly team</p>
