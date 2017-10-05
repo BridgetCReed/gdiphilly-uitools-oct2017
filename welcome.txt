@@ -1,25 +1,32 @@
-<p>Hello $CLASS_NAME students!</p>
+Hello!
 
-<p>Our class is coming up soon: $DATE_AND_TIME. We'll be at $VENUE_DETAILS.</p>
+This weekend is our first-ever "Introduction to User-Interface Design Tools" class! Just a reminder that it's Saturday and Sunday, from 11:45am to 4pm at First Round Capital (4040 Locust Street). We have a lot of topics to cover both days, but I am available during class to help you and after class via email or Slack (on our new channel, #design) if you have any questions. We also have some fantastic TAs this weekend to assist you while working on our Design exercises, so take advantage of their knowledge and experience while you're learning!
 
-<p>You should bring $LAPTOP_AND_HARDWARE with $BROWSERS_OR_SOFTWARE installed.</p>
+There are a few important things that you need before tomorrow's first class so that we can get started coding right away:
 
-<p>Before class, please $COURSE_PREREQUISITES_AND_HOMEWORK.</p>
+- Your laptop and charger
+- Download Photoshop, Illustrator, and Sketch ***MAC ONLY - Please let us know if you would like to borrow a loaner computer to complete the Sketch exercises if you only have a Windows computer***
 
-<p>If you have any questions, feel free to post them in the comments, or click on my profile and message me directly.</p>
+If you'd like, feel free to bring snacks, coffee or bottled drinks to keep you in tip top learning shape.
+Bookmark the class slides for tomorrow here: https://bridgetcreed.github.io/gdiphilly-uitools-oct2017.
 
-<p>$FRIENDLY_CLOSING</p>
+Exercise files will be available for download at the beginning of class, so be sure to arrive on time at 11:45am.
 
------
 
-Hello $CLASS_NAME students!
+Directions:
 
-Our class is coming up soon: $DATE_AND_TIME. We'll be at $VENUE_DETAILS.
+This weekend's class is at First Round Capital in University City:
 
-You should bring $LAPTOP_AND_HARDWARE with $BROWSERS_OR_SOFTWARE installed.
+First Round Capital
+4040 Locust Street
+Philadelphia, PA
 
-Before class, please $COURSE_PREREQUISITES_AND_HOMEWORK.
+If you are taking SEPTA, First Round Capital is a 10-minute walk from the 40th Street stop of the Market Frankford line.
+Septa's 40 bus route has a stop at 40th & Locust.
+Here's a map: https://goo.gl/maps/JU8wxHPkfF62
 
-If you have any questions, feel free to post them in the comments, or click on my profile and message me directly.
+As a reminder, all attendees are expected to abide by Girl Develop It's Code of Conduct, which is available for review at http://www.girldevelopit.com/codeofconduct.
 
-$FRIENDLY_CLOSING
+Please email us if you have any questions before class begins, and I'm looking forward to programming with y'all this weekend!
+
+-- Bridget and the GDI Philly team
